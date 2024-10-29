@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz o grach z lat 90.</string>
+    <string name="next">Następne</string>
+    <string-array name="questions">
+        <item>Pytanie 1/10|W jakiej grze głównym bohaterem jest jeż o imieniu Sonic?|Mario|Crash Bandicoot|Sonic the Hedgehog|Earthworm Jim|C</item>
+        <item>Pytanie 2/10|W grze „The Legend of Zelda: Ocarina of Time” główny bohater nosi imię?|Link|Zelda|Ganondorf|Hyrule|A</item>
+        <item>Pytanie 3/10|Która z tych gier z 1996 roku wprowadziła graczy do fikcyjnego miasta Raccoon City?|Tomb Raider|Silent Hill|Resident Evil|Doom|C</item>
+        <item>Pytanie 4/10|W której grze z lat 90. wcielasz się w archeolożkę Larę Croft?|Indiana Jones|Resident Evil|Tomb Raider|Prince of Persia|C</item>
+        <item>Pytanie 5/10|Który kolorowy duch nie występuje w grze Pac-Man?|Blinky|Inky|Pinky|Gorky|D</item>
+        <item>Pytanie 6/10|Która z poniższych gier umożliwia walkę postaciami takimi jak Sub-Zero i Scorpion?|Street Fighter|Tekken|Mortal Kombat|Virtua Fighter|C</item>
+        <item>Pytanie 7/10|Jakie jest imię włoskiego hydraulika, który stał się ikoną gier w latach 90.?|Sonic|Mario|Luigi|Bowser|B</item>
+        <item>Pytanie 8/10|W której grze z lat 90. pojawia się postać o imieniu Gordon Freeman?|Half-Life|Quake|Deus Ex|Unreal|A</item>
+        <item>Pytanie 9/10|Jaka gra wyścigowa z lat 90. stała się znana dzięki szybkiej akcji i policji goniącej graczy?|Gran Turismo|Need for Speed|F-Zero|Twisted Metal|B</item>
+        <item>Pytanie 10/10|W której grze z lat 90. gracze kontrolują tytułowego komandosa, by walczyć z obcymi na Marsie?|Wolfenstein 3D|Doom|Quake|Hexen|B</item>
+    </string-array>
+</resources>
